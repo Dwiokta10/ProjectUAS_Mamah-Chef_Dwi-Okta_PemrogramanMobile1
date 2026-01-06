@@ -12,9 +12,11 @@
 🔗 Tautan Penting
 |Repository GitHub	https://github.com/Dwiokta10/ProjectUAS_Mamah-Chef_Dwi-Okta_PemrogramanMobile1.git|
 |ClickUp	https://app.clickup.com/90181792767/v/li/901812544605|
-|YouTube |
+|YouTube https://youtu.be/nn5arx7NWQk?si=RYl3b2UUujUGdDzo |
 
 ## SPASH SCREEN
+![WhatsApp Image 2026-01-06 at 20 17 09](https://github.com/user-attachments/assets/3334948e-fc16-4cc0-a66b-2be7ae5f2f3a)
+
 ## STORYBOARD
 <img width="1167" height="648" alt="Cuplikan layar 2026-01-06 034801" src="https://github.com/user-attachments/assets/cd45687d-2452-4d53-9ed7-b9e3e2eead57" />
 <img width="1142" height="649" alt="Cuplikan layar 2026-01-06 034911" src="https://github.com/user-attachments/assets/384ec3be-abd2-485a-974c-989b4fd666b6" />
@@ -30,7 +32,7 @@
 
 
 ## UI
-... PERTAMA NANTI YG HALO
+<img width="1145" height="637" alt="Cuplikan layar 2026-01-06 035749" src="https://github.com/user-attachments/assets/9f3b4515-19fe-4adf-b8de-de324edb29a3" />
 <img width="1147" height="637" alt="Cuplikan layar 2026-01-06 035800" src="https://github.com/user-attachments/assets/f2966d34-4b2b-4e0e-bce0-d277f58094f9" />
 <img width="1147" height="639" alt="Cuplikan layar 2026-01-06 035811" src="https://github.com/user-attachments/assets/84aeefc5-8178-48c3-bbb4-75ed8fde7b22" />
 <img width="1150" height="646" alt="Cuplikan layar 2026-01-06 035823" src="https://github.com/user-attachments/assets/daf3e0e4-59fe-41ce-8c3d-8d17035ce73c" />
@@ -39,5 +41,9 @@
 
 
 ## UX
-YG TERBARU ATAU BIKIN YOUTUBE
+<img width="891" height="212" alt="Cuplikan layar 2026-01-06 040257" src="https://github.com/user-attachments/assets/c0a54329-0373-44b3-bf28-40277cef5df6" />
+
+di apload dalam link youtube https://youtu.be/nn5arx7NWQk?si=RYl3b2UUujUGdDzo
+
+<img width="921" height="499" alt="Cuplikan layar 2026-01-06 040225" src="https://github.com/user-attachments/assets/39e13b1d-0fd6-492a-af8b-fef79a7d5521" />
 
